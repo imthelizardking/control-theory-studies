@@ -36,3 +36,45 @@ Following controllers will be examplified:
   - Model reference adaptive
   - Extremum seeking
   - Iterative Learning Control
+
+Following Analysis subjects will be examplified:
+- Controllability/Observability
+- Stability
+- Margins
+- Non minimum phase
+- Perfomance
+- Nyquist
+- Passibity
+- Gang of six
+- Phase plane
+- Root locus
+- Poler-zero plot
+- Lyapunov stability
+- Bode plots
+- Nichols Charts
+
+Following modelling and simulation subjects will be examplified (will be extended from this list)
+- State-space
+- Transfer Functions
+- First Principles
+- System Identification
+- Block Diagrams
+- Linearization
+- Minimum Realizations
+- Hybrid Systems
+- Simulation Techniques
+- Physical Modelling
+- Intelligent Modelling (ANNs, pysindy)
+
+Following state estimation subjects will be examplified:
+- Moving Horizon Estimation
+- Filtering
+- Sensor Fusion
+- Mapping
+- Tracking
+  - (brian's book)
+- Observer
+- Kalman Filter
+- Sigma point
+- Particle filter
+- Calibration
