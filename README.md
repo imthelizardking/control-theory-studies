@@ -1,1 +1,38 @@
 # control-theory-studies
+Following controllers will be examplified:
+- Linear
+  - Basic P, I, D combinations
+  - Lead/lag compansators
+  - Full State Feedback Control
+  - Loop Shaping
+- Nonlinear
+  - Dynamic Inversion
+  - Sliding Mode
+  - Feedback Linearization
+  - Gain Scheduling
+  - Backstepping
+  - Bang-bang controller
+- Robust
+  - Mu Synthesis
+  - Active Disturbance Rejection Control
+  - H-infinity Controller
+  - H-2 Controller
+- Optimal Control
+  - Hamilton-jacobi-bellman equation
+  - Pontryagin's maximum principle
+- Predictive Control
+  - Model Predictive Control
+  - Linear MPC
+  - Robust MPC
+- Intelligent Control
+  - Fuzzy Control
+  - Reinforcement Learning
+  - Genetic Algorithms
+- Multi-agent Control
+  - Graph Theoretic Control
+  - Leader-follower
+  - Swarm
+- Adaptive Control
+  - Model reference adaptive
+  - Extremum seeking
+  - Iterative Learning Control
